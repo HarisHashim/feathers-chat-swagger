@@ -1,0 +1,26 @@
+{
+  "env": {
+    "es6": true,
+    "node": true,
+    "mocha": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2017
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    "linebreak-style": 0,
+    "space-before-function-paren": [0, "never"],
+    "semi": 0,
+    "brace-style": 0,
+    "quotes": 0,
+    "indent": 0,
+    "key-spacing": 0,
+    "no-tabs": 0,
+    "no-mixed-spaces-and-tabs": 0,
+    "vue/no-side-effects-in-computed-properties": 0,
+    "no-spaced-func": 0,
+    "func-call-spacing": 0,
+    "no-console": 0
+  }
+}
