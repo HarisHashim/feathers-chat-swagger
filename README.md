@@ -1,10 +1,7 @@
-# feathers-chat
+# feathers-chat-swagger
+Important Note: This code is not working and for the purpose of asking question!
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-chat.svg)](https://greenkeeper.io/)
-[![Build Status](https://img.shields.io/travis/feathersjs/feathers-chat/master.svg)](https://travis-ci.org/feathersjs/feathers-chat)
-[![Dependency Status](https://img.shields.io/david/feathersjs/feathers-chat.svg)](https://david-dm.org/feathersjs/feathers-chat)
-
-> A Feathers real-time chat application
+> A Feathers real-time chat application with swagger
 
 > __Important:__ This repository requires Node v8.0.0 or later.
 
@@ -20,48 +17,3 @@ Other chat frontends can be found at:
 - [feathers-plus/feathers-chat-vuex](https://github.com/feathers-plus/feathers-chat-vuex)
 
 ## Getting Started
-
-Getting up and running is as easy as 1, 2, 3.
-
-1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
-2. Install your dependencies
-
-    ```
-    cd path/to/feathers-chat
-    npm install
-    ```
-
-3. Start your app
-
-    ```
-    npm start
-    ```
-
-4. Goto to browser and go to [localhost:3030/vanilla](http://localhost:3030/vanilla/)
-
-## Testing
-
-Simply run `npm test` and all your tests in the `test/` directory will be run.
-
-## Scaffolding
-
-Feathers has a powerful command line interface. Here are a few things it can do:
-
-```
-$ npm install -g feathers-cli             # Install Feathers CLI
-
-$ feathers generate service               # Generate a new Service
-$ feathers generate hook                  # Generate a new Hook
-$ feathers generate model                 # Generate a new Model
-$ feathers help                           # Show all commands
-```
-
-## Help
-
-For more information on all the things you can do with Feathers visit [docs.feathersjs.com](http://docs.feathersjs.com).
-
-## License
-
-Copyright (c) 2017
-
-Licensed under the [MIT license](LICENSE).
