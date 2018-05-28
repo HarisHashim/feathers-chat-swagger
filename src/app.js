@@ -49,6 +49,18 @@ app.configure(
     info: {
       title: "Feathers Chat Backend",
       description: "Feathers chat backend!"
+    },
+    security: {
+      name: "jwt",
+      type: "apiKey",
+      in: "header"
+    },
+    securityDefinitions: {
+      jwt: {
+        type: "apiKey",
+        name: "Authorization",
+        in: "header"
+      }
     }
     // ,
     // securityDefinitions: {

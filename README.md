@@ -16,4 +16,3 @@ Other chat frontends can be found at:
 - [feathersjs-ecosystem/feathers-chat-angular](https://github.com/feathersjs-ecosystem/feathers-chat-angular)
 - [feathers-plus/feathers-chat-vuex](https://github.com/feathers-plus/feathers-chat-vuex)
 
-## Getting Started
